@@ -7,7 +7,7 @@ Make Sure it is the CloudSim Plus Examples folder: It is the start point to unde
 
 Before you begin, ensure you have the following installed:
 
-- [Java Development Kit (JDK)](https://www.oracle.com/java/technologies/javase-downloads.html) 17 or later
+- [Java Development Kit (JDK)](https://www.oracle.com/java/technologies/javase-downloads.html) 21
 - [Maven](https://maven.apache.org/download.cgi)
 
 ## Installation Steps
